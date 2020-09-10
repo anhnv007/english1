@@ -1,0 +1,21 @@
+{
+  "name": "random-english-words",
+  "version": "0.1.0",
+  "description": "Generate common English words",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:allenhwkim/random-english-words.git"
+  },
+  "keywords": [
+    "random",
+    "english",
+    "words",
+    "word",
+    "generate",
+    "generator",
+    "string"
+  ],
+  "author": "Allen Kim<allenhwkim@gmail.com>",
+  "license": "MIT"
+}
